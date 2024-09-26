@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**k19tvan/k19tvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Streak
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=k19tvan&theme=radical)](https://www.github.com/k19tvan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=k19tvan&count_private=true&show_icons=true&theme=radical)](https://www.github.com/k19tvan)
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k19tvan&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/k19tvan)
