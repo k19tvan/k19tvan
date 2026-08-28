@@ -1,13 +1,32 @@
-### Hi 🌸
+<div align="center">
 
-## Github Streak
+  # Hi there, I'm antv 🌸
+  
+  <p>
+    <a href="https://github.com/k19tvan">
+      <img src="https://komarev.com/ghpvc/?username=k19tvan&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+    </a>
+  </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=k19tvan&theme=radical)](https://www.github.com/k19tvan)
+  ---
 
-## Github Stats
+  ### 📊 Activity & Streak
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=k19tvan&count_private=true&show_icons=true&theme=radical)](https://www.github.com/k19tvan)
+  <a href="https://github.com/k19tvan">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=k19tvan&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
 
-## Languages
+  <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k19tvan&&langs_count=10&theme=radical&hide=html&layout=compact)](https://www.github.com/k19tvan)
+  ### 📈 GitHub Statistics
+
+  <p>
+    <a href="https://github.com/k19tvan">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=k19tvan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/k19tvan">
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k19tvan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8&hide=html" alt="Top Languages" />
+    </a>
+  </p>
+
+</div>
